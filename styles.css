@@ -1,0 +1,124 @@
+/*slider*/
+
+/*parte superior*/
+body{
+    margin: 0%;
+}
+header {
+    background-color: #f5f5f5;
+    height: 142px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0em;
+    margin-bottom: -5px;
+}
+/*color de menu*/
+.opcs {
+    background-color: #e9bca8;
+    overflow: hidden;
+    position: relative;
+    top: -20px;
+}
+h1{
+    color: black;
+}
+
+/*color de texto del menu*/
+.opc {
+    float: left;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/*color del traso del menu*/
+.opc:hover {
+    background-color: #ffffff;
+    color: black;
+}
+/*color de cuadro de nosotros*/
+.banner {
+    text-align: center;
+    margin-bottom: 0px;
+}
+.banner img {
+    max-width: 100%;
+    height: auto;
+}
+.intro-text {
+    text-align: justify;
+    line-height: 1.6;
+}
+.imagen{
+    margin-left: 0px;
+    margin-top: 35%;
+    
+}
+.redes{
+    position: relative;
+    top: -81px;
+    margin-top: -45%;
+    
+    left: 33%;
+  
+}
+
+.opc_car{
+    background-color: #e9bca8;
+    color: black;
+    position: relative;
+    top: 10px;
+    left: 78%;
+}
+.logo{
+    position: relative;
+    top: -72px;
+    left: -26%;
+}
+.tele{
+    position: relative;
+    right: -0%;
+    top: 40%;
+}
+.numer{
+    top: 10;
+    margin-top: 10%;
+    left: 10%;
+}
+.telef{
+    position: relative;
+    top: -62%;
+   left: 30%;
+
+}
+
+.imagenes1 {
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    top: -7px;
+    margin-top:4%;
+    
+    left: -20%;
+  
+}
+.imagenes1 img {
+    max-width: 100%;
+    height: auto;
+}
+.imagenes2 {
+    text-align: center;
+    margin-bottom: 0px;
+    position: relative;
+    top: -7px;
+    margin-top:-40%;
+    
+    left: 19%;
+  
+}
+.imagenes2 img {
+    max-width: 100%;
+    height: auto;
+}
